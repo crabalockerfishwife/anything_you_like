@@ -24,6 +24,12 @@ Christmas-themed blogging engine implementing SQL to store user information
 Site which allows a user to compare two actors via their movie rankings from RottenTomatoes.
 #### https://github.com/crabalockerfishwife/api-project-fish-nadia.git
 
+### Final Project
+#### Fish Milnikiewicz, Claire Burghard, Veronika Azzara, Nadia Saleh
+#### Description
+A site designed to help people collaborate on homework assignments for effective learning.
+#### https://github.com/crabalockerfishwife/semester-one-project
+
 ## Mini Projects
 
  * intro-proj1
